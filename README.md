@@ -29,7 +29,7 @@ I am an enthusiastic AI Engineer / Data Scientist with a strong passion for leve
 - Conducted data cleaning, modeling, and analysis for a social media client's IPO readiness.
 - Developed a comprehensive report and presentation to translate complex data into actionable strategies.
 
-###Invoice Extraction Tool Using LLM (Gemini) APIs
+### Invoice Extraction Tool Using LLM (Gemini) APIs
 - Developed a tool to extract customer details, product information, and total amounts from invoice PDFs using LLM (Gemini) APIs. Utilized PyMuPDF for PDF text extraction, Tesseract for OCR on embedded images, and Python for data processing.
 - The tool streamlines invoice processing, reducing manual work and increasing efficiency by 40% in financial operations.
 
