@@ -35,8 +35,8 @@ I am an enthusiastic AI Engineer / Data Scientist with a strong passion for leve
 
 ## 💡 Projects
 ### **Question-Answer Pair Generator Application**
-- Developed a Streamlit app using the Zephyr-7B model to generate questions and answers at different difficulty levels from PDFs.
-- Enhanced study materials by leveraging advanced NLP techniques, including text splitting, summarization chains, and vector-based retrieval systems.
+- QA Pair Generator: Developed a tool using Streamlit and NLP models (Valhalla T5, RoBERTa) to automatically generate question-answer pairs from PDF documents by extracting text and classifying question difficulty levels.
+- Technologies: Implemented with Python, leveraging PyMuPDF, PyTesseract, and Hugging Face for text extraction, question generation, and answer extraction.
 
 ### **Comparative Analysis of Karnataka Assembly Election Results (2018 vs. 2023)**
 - Performed data cleaning using Excel and exploratory data analysis (EDA) with Python.
