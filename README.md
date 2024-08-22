@@ -9,7 +9,7 @@ I am an enthusiastic AI Engineer / Data Scientist with a strong passion for leve
 - **Programming Languages**: Python, SQL
 - **Data Analysis Tools**: Power BI, Jupyter Notebook, SPSS, Google Analytics, Microsoft Office
 - **Development Tools**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Anaconda, Git/GitHub, VS Code
-- **Project Management**: Microsoft Project, Canva
+- **Project Management**: Microsoft Project
 - **Other Tools**: Database Management Systems, Gemini, ChatGPT
 
 ## 📚 Education
