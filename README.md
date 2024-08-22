@@ -15,7 +15,7 @@ I am an enthusiastic AI Engineer / Data Scientist with a strong passion for leve
 ## 📚 Education
 - **B.Tech. in Artificial Intelligence and Data Science**  
   National Engineering College, Tamil Nadu, India  
-  CGPA: 7.96/10 (Expected Graduation: 2026)
+  CGPA: 8.1/10 (Expected Graduation: 2026)
 
 - **Higher Secondary Education**  
   Arumugham Palaniguru Modern School, Percentage: 73%
