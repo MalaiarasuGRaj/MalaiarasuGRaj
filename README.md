@@ -2,7 +2,7 @@
 
 ### Aspiring AI Engineer / Data Scientist
 
-I am an enthusiastic AI Engineer / Data Scientist with a strong passion for leveraging AI to solve real-world problems and create innovative solutions. I am currently pursuing a B.Tech. in Artificial Intelligence and Data Science at National Engineering College, Tamil Nadu, with a CGPA of 7.96/10, and I am expected to graduate in 2026.
+I am an enthusiastic AI Engineer / Data Scientist with a strong passion for leveraging AI to solve real-world problems and create innovative solutions. I am currently pursuing a B.Tech. in Artificial Intelligence and Data Science at National Engineering College, Tamil Nadu, with a CGPA of 8.2/10, and I am expected to graduate in 2026.
 
 ## 🛠️ Skills & Tools
 - **Artificial Intelligence**: Machine Learning, Data Science, Data Analysis, Statistical Analysis, Project Management, Agile Methodology
