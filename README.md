@@ -54,7 +54,7 @@ I'm a passionate technologist with a strong foundation in Artificial Intelligenc
 ### 💬 MongoChat: AI Agent for MongoDB  
 - Natural language chatbot interface for querying MongoDB.  
 - Cut query response time by 80% and reduced manual work by 50%.  
-- **Tech Stack**: Python, Flask, SambaNova API, PyMongo  
+- **Tech Stack**: React, Python, Flask, SambaNova API, PyMongo  
 [GitHub Link](https://github.com/MalaiarasuGRaj/MongoChat)
 
 ### 🧠 QuiZenius AI: Personalized Learning Platform  
