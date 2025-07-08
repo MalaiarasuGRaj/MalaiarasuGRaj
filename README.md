@@ -1,75 +1,117 @@
 # 👋 Hi, I'm Malaiarasu G Raj
 
-### Aspiring AI Engineer / Data Scientist
+### Aspiring AI Engineer | Data Scientist | Software Developer
 
-📄 [View My Resume](https://drive.google.com/file/d/1s_9EtzugsfdaCSL-ta_UMaa9814Ju7op/view?usp=sharing)
+📄 [View My Resume](https://drive.google.com/file/d/1voOrDvbrUTKwWBSr07OteJVOqK8hgzS_/view?usp=sharing)
 
+I'm a passionate technologist with a strong foundation in Artificial Intelligence, Data Science, and Full-Stack Development. Backed by hands-on experience in industry and academia, I specialize in building intelligent systems and AI-powered solutions that solve real-world problems. I'm currently pursuing my B.Tech in AI & Data Science at National Engineering College, Tamil Nadu, and will graduate in 2026.
 
-I am an enthusiastic AI Engineer / Data Scientist with a strong passion for leveraging AI to solve real-world problems and create innovative solutions. I am currently pursuing a B.Tech. in Artificial Intelligence and Data Science at National Engineering College, Tamil Nadu, with a CGPA of 8.2/10, and I am expected to graduate in 2026.
+---
 
-## 🛠️ Skills & Tools
-- **Artificial Intelligence**: Machine Learning, Data Science, Data Analysis, Statistical Analysis, Project Management, Agile Methodology
-- **Programming Languages**: Python, SQL
-- **Data Analysis Tools**: Power BI, Jupyter Notebook, SPSS, Google Analytics, Microsoft Office
-- **Development Tools**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Anaconda, Git/GitHub, VS Code
-- **Project Management**: Microsoft Project
-- **Other Tools**: Database Management Systems, Gemini, ChatGPT
+## 🛠️ Skills & Technologies
 
-## 📚 Education
-- **B.Tech. in Artificial Intelligence and Data Science**  
-  National Engineering College, Tamil Nadu, India  
-  CGPA: 8.1/10 (Expected Graduation: 2026)
+- **Languages**: Python, SQL, Java  
+- **Frameworks/Libraries**: Pandas, NumPy, Scikit-learn, Streamlit, React, Flask  
+- **Tools**: Git, MongoDB, Jupyter Notebook, Power BI, VS Code  
+- **Concepts**: Machine Learning, Data Analysis, Generative AI, Prompt Engineering, Agile, Scrum  
+- **Other Tools**: PyMuPDF, Tesseract, Hugging Face, Anaconda, Gemini, ChatGPT
 
-- **Higher Secondary Education**  
-  Arumugham Palaniguru Modern School, Percentage: 73%
+---
+
+## 🎓 Education
+
+- **B.Tech in Artificial Intelligence and Data Science**  
+  *National Engineering College, Tamil Nadu, India*  
+  CGPA: 8.2/10.0 (Expected Graduation: May 2026)
+
+---
 
 ## 💼 Experience
-### Research Intern, Indian Institute of Information Technology - Kottayam (May 2024 - July 2024)
-- Conducted detailed research on question-answer generation techniques.
-- Worked on QA AI/ML models, including T5, RoBERTa, BERT, and BART.
 
-### Data Analyst Intern, Accenture (Simulation Project)
-- Conducted data cleaning, modeling, and analysis for a social media client's IPO readiness.
-- Developed a comprehensive report and presentation to translate complex data into actionable strategies.
+### Generative AI Intern — DigitalT3 Software Services Pvt Ltd, USA  
+*Oct 2024 – Present*  
+- Built LLM-based tools to optimize business operations and decision-making.  
+- Designed and optimized prompts, improving real-time response efficiency.  
+- Integrated GenAI into existing platforms, increasing user engagement and reducing latency.  
+- Researched latest GenAI APIs and frameworks for scalable solutions.
 
-### Invoice Extraction Tool Using LLM (Gemini) APIs
-- Developed a tool to extract customer details, product information, and total amounts from invoice PDFs using LLM (Gemini) APIs. Utilized PyMuPDF for PDF text extraction, Tesseract for OCR on embedded images, and Python for data processing.
-- The tool streamlines invoice processing, reducing manual work and increasing efficiency by 40% in financial operations.
+### Research Intern — Indian Institute of Information Technology, Kottayam  
+*May 2024 – Aug 2024*  
+- Developed QA systems using T5, RoBERTa, BERT, and BART models.  
+- Reduced QA model processing time by 20%, improved accuracy by 15%.  
+- Assisted in dataset preparation and academic paper drafting.
 
-## 💡 Projects
-### **Question-Answer Pair Generator Application**
-- QA Pair Generator: Developed a tool using Streamlit and NLP models (Valhalla T5, RoBERTa) to automatically generate question-answer pairs from PDF documents by extracting text and classifying question difficulty levels.
-- Technologies: Implemented with Python, leveraging PyMuPDF, PyTesseract, and Hugging Face for text extraction, question generation, and answer extraction.
+---
 
-### **Comparative Analysis of Karnataka Assembly Election Results (2018 vs. 2023)**
-- Performed data cleaning using Excel and exploratory data analysis (EDA) with Python.
-- Provided insights into voter turnout, party performance, key issues, and demographics.
+## 💡 Featured Projects
 
-## 🎓 Workshops, Conferences & Hackathons
-- **Web Application Development** - BIT, Sathyamanghalam, May 2023
-- **International Conference on Recent Trends in Data Science** - Feb 2024
-- **Predictive Analysis and Data Visualization** - SECE, Coimbatore, Sep 2023
-- **Hybrid Hack - SRMIST** - Runner-Up
-- **Hack Elite (24 Hours) - SMVEC** - Participant
+### 🔍 MarQ: AI-Powered Marks Analysis Tool  
+- Automated performance summaries and academic reports using AI.  
+- Reduced manual analysis time by 70% for educators.  
+- **Tech Stack**: React.js, Node.js, Tailwind CSS, Prompt Engineering, Agentic AI  
+[Live Link](https://comforting-kangaroo-6f5fa8.netlify.app/)
 
-## 🏆 Leadership & Extracurriculars
-- **President**, AI & DS Association, National Engineering College (Aug 2023 - Present)
-- **Student Coordinator**, Maths Club, National Engineering College (Oct 2022 - Aug 2023)
-- **Student Volunteer**, National Service Scheme (NSS), National Engineering College (Aug 2023 - Present)
+### 💬 MongoChat: AI Agent for MongoDB  
+- Natural language chatbot interface for querying MongoDB.  
+- Cut query response time by 80% and reduced manual work by 50%.  
+- **Tech Stack**: Python, Flask, SambaNova API, PyMongo  
+[GitHub Link](https://github.com/MalaiarasuGRaj/MongoChat)
 
-## 📝 Publications
-- **AI Driven Zero Trust: Spearheading the Revolution in Network Security of the Digital Age** - ICRTDS 2024, Feb 2024
-- **Collaborative Data Quality Improvement Using AI & Python** - AIIII 2024, Mar 2024
+### 🧠 QuiZenius AI: Personalized Learning Platform  
+- AI-driven quiz and material generator based on learner profiles.  
+- Enhanced content relevance with prompt-tuned LLMs.  
+- **Tech Stack**: Python, Streamlit, Prompt Engineering  
+[GitHub Link](https://github.com/MalaiarasuGRaj/DigitalT3-PromptEngineering)
 
-## 🎖️ Certifications
-- **Google Data Analytics Professional Certificate** - Jun 2023
-- **Data Analysis with Python** - freeCodeCamp, Jul 2023
-- **Certificate of Completion - Data Analytics and Visualization Job Simulation** - Accenture, Apr 2024
-- **Database Management System - 1** - Infosys Springboard, May 2024
+### 📝 Question-Answer Pair Generator  
+- Developed a Streamlit app using Valhalla T5, RoBERTa to auto-generate QA pairs from PDFs.  
+- Includes difficulty classification and OCR-based text extraction.
 
-## 📫 Contact Me
-- **Email**: [govindarajmalaiarasu@gmail.com](mailto:govindarajmalaiarasu@gmail.com)
-- **LinkedIn**: [Malaiarasu G Raj](https://www.linkedin.com/in/malaiarasu-g-raj/)
-- **Portfolio**: [My Blog](https://malaiarasu07.wordpress.com/)
+### 📊 Election Data Analysis: Karnataka Assembly (2018 vs 2023)  
+- Conducted EDA on electoral data to analyze voting trends and party performance using Python & Excel.
 
-Feel free to explore my repositories, and don't hesitate to connect with me if you're interested in collaboration or discussing AI and Data Science!
+---
+
+## 🏆 Achievements & Awards
+
+- 🥇 **Winner** – Hybrid Hack, SRMIST  
+- 🥇 **Winner** – DigitalT3 Hackathon (Secured Internship Offer)  
+- 🥇 **Winner** – Google Hunt, National Engineering College  
+- 🥈 **Runner-Up** – Chatbot Design, Sri Eshwar College of Engineering  
+
+---
+
+## 🎓 Workshops, Hackathons & Conferences
+
+- **Predictive Analytics & Visualization** – SECE, Coimbatore (Sep 2023)  
+- **Web App Development Workshop** – BIT, Sathyamangalam (May 2023)  
+- **ICRTDS 2024** – Presented research on AI-Driven Zero Trust  
+- **Hack Elite 2024** – 24-hour hackathon participation  
+- **AIIII 2024** – Presented work on collaborative data quality improvement  
+
+---
+
+## 📄 Publications
+
+- **AI Driven Zero Trust: Spearheading the Revolution in Network Security** – ICRTDS 2024  
+- **Collaborative Data Quality Improvement using AI & Python** – AIIII 2024  
+
+---
+
+## 📜 Certifications
+
+- 🧠 Google Data Analytics Professional Certificate  
+- 🧠 Accenture: Digital Skills – Artificial Intelligence  
+- 🧠 Udemy: Generative AI in Testing  
+- 🧠 HP Life: Agile Project Management  
+- 🧠 Infosys Springboard: Database Management Systems  
+- 🧠 freeCodeCamp: Data Analysis with Python  
+
+---
+
+## 📫 Connect With Me
+
+- **Email**: [govindarajmalaiarasu@gmail.com](mailto:govindarajmalaiarasu@gmail.com)  
+- **LinkedIn**: [Malaiarasu G Raj](https://www.linkedin.com/in/malaiarasu-g-raj/)  
+- **GitHub**: [MalaiarasuGRaj](https://github.com/MalaiarasuGRaj)  
+- **Portfolio**: [mgraj-portfolio.lovable.app](https://mgraj-portfolio.lovable.app)
